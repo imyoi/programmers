@@ -29,7 +29,7 @@ public class P250129_산책 {
         int east = 0;
         int north = 0;
         int[] answer = new int [2];
-        for (int i=0; i<route.length(); i++) { // NSSNEWWN
+        for (int i=0; i<route.length(); i++) {
             switch (route.charAt(i)) {
                 case 'N':
                     north++;
