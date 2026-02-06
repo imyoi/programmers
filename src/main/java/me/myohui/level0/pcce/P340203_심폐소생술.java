@@ -3,7 +3,7 @@ package me.myohui.level0.pcce;
 import java.util.Arrays;
 
 /**
- * <p><b>[PCCE 기출문제] 5번 / 심폐소생술</b></p>
+ * <p>[PCCE 기출문제] 5번 / 심폐소생술</p>
  *
  * 심폐소생술은 다음과 같은 순서로 실시합니다.
  * <ol>
