@@ -15,12 +15,12 @@ import java.util.Scanner;
  *   <li>연 나이: {@code 현재 연도 - 출생 연도}</li>
  * </ul>
  *
- * 출생 연도를 나타내는 정수 {@code year}와, 구하려는 나이의 종류를 나타내는 문자열 {@code age_type}이 주어질 때,
+ * 출생 연도를 나타내는 정수 {@code year}와,
+ * 구하려는 나이의 종류를 나타내는 문자열 {@code age_type}이 주어질 때,
  * 2030년에 몇 살인지 출력하도록 빈칸을 채워 코드를 완성해 주세요.
  *
  * <p>
- * {@code age_type}이 {@code "Korea"}인 경우 한국식 나이를,
- * {@code "Year"}인 경우 연 나이를 출력합니다.
+ * {@code age_type}이 {@code "Korea"}인 경우 한국식 나이를, {@code "Year"}인 경우 연 나이를 출력합니다.
  * </p>
  */
 public class P250131_나이_계산 {
