@@ -4,9 +4,9 @@ import java.util.Arrays;
 
 /**
  * <p>[코딩테스트 입문] 최빈값 구하기</p>
- * https://school.programmers.co.kr/learn/courses/30/lessons/120813
+ * https://school.programmers.co.kr/learn/courses/30/lessons/120812
  * */
-public class P120813_최빈값_구하기 {
+public class P120812_최빈값_구하기 {
     public static void main(String[] args) {
 //        System.out.println(solution(new int[]{1, 2, 3, 3, 3, 4}));
 //        System.out.println(solution(new int[]{1, 1, 2, 2}));
