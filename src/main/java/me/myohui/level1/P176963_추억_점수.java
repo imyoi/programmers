@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * <p>[코딩테스트 입문] 추억 점수</p>
+ * <p>추억 점수</p>
  * https://school.programmers.co.kr/learn/courses/30/lessons/176963
  * */
 public class P176963_추억_점수 {

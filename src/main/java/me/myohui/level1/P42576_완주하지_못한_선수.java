@@ -30,21 +30,14 @@ public class P42576_완주하지_못한_선수 {
         }
 
         for (String s : completion) {
-            map.put(s, map.get(s) - 1); // completion은 무조건 participant에 있으므로 getOrDefault 생략 가능
+            map.put(s, map.get(s) - 1);
         }
 
-        // entrySet을 사용하면 Key와 Value를 동시에 꺼내어 조금 더 빠릅니다.
         for (Map.Entry<String, Integer> entry : map.entrySet()) {
             if (entry.getValue() > 0) {
                 return entry.getKey();
             }
         }
-
-//        for (String key : map.keySet()) {
-//            if (map.get(key) > 0) {
-//                return key;
-//            }
-//        }
         return answer;
     }
 }

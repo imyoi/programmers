@@ -3,7 +3,7 @@ package me.myohui.level1;
 import java.util.Arrays;
 
 /**
- * <p>[코딩테스트 입문] 공원 산책</p>
+ * <p>공원 산책</p>
  * https://school.programmers.co.kr/learn/courses/30/lessons/172928
  * */
 public class P172928_공원_산책 {
